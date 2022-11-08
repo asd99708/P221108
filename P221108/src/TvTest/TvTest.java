@@ -1,3 +1,4 @@
+package TvTest;
 class Tv {
 	String color;
 	boolean power;
